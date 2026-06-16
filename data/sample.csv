@@ -1,0 +1,9 @@
+time,temperature,salinity,depth,station,region
+1,26.4,35.1,5,A,north
+2,26.7,35.0,5,A,north
+3,27.1,35.2,5,A,north
+4,27.4,35.4,5,A,north
+1,25.9,34.8,10,B,south
+2,26.2,34.9,10,B,south
+3,26.5,35.0,10,B,south
+4,26.8,35.1,10,B,south
